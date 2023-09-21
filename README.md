@@ -1,2 +1,2 @@
 # logics
-some program used in interview qutions
+added some program which are asked in interview qutions
